@@ -1,5 +1,5 @@
 
-# Seja Bem-Vindo 👋
+# Bem-Vindo 👋
 
 
 <!--div align="center">
