@@ -1,6 +1,6 @@
 
 # Bem-Vindo 👋
-Olá meu nome é Gladson Simões seja bem-vindo 😎
+Olá meu nome é Gladson Simões e seja bem-vindo 😎
 <div align="center">
 
 
@@ -8,7 +8,7 @@ Olá meu nome é Gladson Simões seja bem-vindo 😎
  <img height="95em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=7&theme=dark"/> 
  
   <div>
-  <img align="" alt="JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 </div>
 
 
