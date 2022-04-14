@@ -3,7 +3,11 @@
 <div align="center">
   <a href="https://github.com/gladsonsimoes">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=7&theme=github_dark"/>
+    
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=github-readme-stats&cache_seconds=86400&theme=github_dark"/>
+    
 </div>
 <div style="display: inline_block"><br>
 
