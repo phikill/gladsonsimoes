@@ -1,5 +1,7 @@
  [![banner](./Gladson.gif)](https://github.com/gladsonsimoes)
 
+Estudando Java recentecemente 
+
 <div style="display: inline_block"><br>
 
 <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
