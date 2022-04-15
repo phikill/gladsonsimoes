@@ -10,7 +10,7 @@
 
 # Trabalhando Neste Repositório:
 </a>
-    <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplos_Java">  
+    <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo_Java&theme=github_dark" />
 </a>
     
