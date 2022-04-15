@@ -1,6 +1,6 @@
  [![banner](./Gladson.gif)](https://github.com/gladsonsimoes)
 
-Estudando Java recentecemente 
+
 
 <div style="display: inline_block"><br>
 
