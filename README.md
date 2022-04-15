@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
 
-<p align="left"> 
-  Olá o meu nome é  Gladson <strongSua área</strong>.<br>
-  recentemente estou fazendo Curso de Programação.
-</p>
-
 <div align="left">
 
   <a href="https://github.com/gladsonsimoes"/>
