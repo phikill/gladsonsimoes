@@ -9,7 +9,7 @@
 
 <h4 align="center">
 <details>
-<summary>Clique para Mais...</summary>
+<summary>Clique para ver Detalhes...</summary>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá eu meu chamo Gladson </h1></img>
 
