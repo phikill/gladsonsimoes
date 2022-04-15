@@ -1,6 +1,13 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá eu meu chamo Gladson </h1></img>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<p align="left"> 
+  Olá o meu nome é  Gladson <strongSua área</strong>.<br>
+  recentemente estou fazendo Curso de Programação.
+</p>
+
+<div align="left">
 
   <a href="https://github.com/gladsonsimoes"/>
    <img align="height" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
@@ -11,7 +18,7 @@
  </div>
  
 <div style="display: inline_block"><br>
- <div align="center">
+ <div align="left">
 
 <img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
 
