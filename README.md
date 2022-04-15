@@ -1,6 +1,8 @@
 <div [![banner](./banner.png)](https://github.com/seu-usuario)
 
 
+<script type="text/javascript" src="gifffer.min.js"></script>
+<img data-gifffer="image.gif" >
 
 <div style="display: inline_block"><br>
 
