@@ -10,7 +10,7 @@
 
 # Trabalhando Neste Repositório:
       
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo_Java&theme=github_dark" />
 </a>
     
 </div>
