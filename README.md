@@ -8,7 +8,7 @@
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=7&theme=github_dark"/>
 
-# Top Repositórios 
+# Trabalhando Neste Repositório:
       
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo&theme=github_dark" />
 </a>
