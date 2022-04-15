@@ -1,6 +1,6 @@
- [![banner](./Gladson.gif)](https://github.com/gladsonsimoes)
+ <!--[![banner](./Gladson.gif)](https://github.com/gladsonsimoes)-->
 
-<img center="150em" src="Gladson.gif"/>
+<img height="150em" src="Gladson.gif"/>
 
 <div style="display: inline_block"><br>
 
