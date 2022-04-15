@@ -1,5 +1,5 @@
 
-### Olá como vai  👋
+# Olá como vai  👋
 <div align="center">
   
   <a href="https://github.com/gladsonsimoes">
@@ -8,7 +8,10 @@
     
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=7&theme=github_dark"/>
 
-# Trabalhando Neste Repositório:
+Trabalhando Neste Repositório:
+
+<!-- Código para colocar Repositório no README   -->
+
 </a>
     <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java">  
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo_Java&theme=github_dark" />
