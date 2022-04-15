@@ -1,7 +1,7 @@
  <!--[![banner](./Gladson.gif)](https://github.com/gladsonsimoes)  para banner gif e png -->
 
 <a href="https://github.com/gladsonsimoes"/>
-<img  align="center" height="300em"  src="Gladson.gif"/>
+<img  align="center" height="400em"  src="Gladson.gif"/>
 
 <div style="display: inline_block"><br>
 
