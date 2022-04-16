@@ -18,10 +18,6 @@
 <summary> </summary>
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
-
-
-
 <div align="center">
   
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=10&theme=github_dark"/>
@@ -33,15 +29,5 @@
    <img align="height" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
     
  </div>
-
-
-<!-- Trabalhando Neste Repositório:
-
-<!-- Código para colocar Repositório no README   -->
-
-<!--</a>
-    <a href="https://github.com/gladsonsimoes/ExerciciosDeExemplo_Java">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gladsonsimoes&repo=ExerciciosDeExemplo_Java&theme=github_dark" />
-</a>
 
 
