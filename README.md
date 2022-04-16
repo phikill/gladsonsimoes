@@ -7,35 +7,23 @@
 <summary> Detalhes </summary>
  
  
+## 
  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
-
-
  </div>
  
-<div style="display: inline_block"><br>
- <div align="center">
 
-<img align="center" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-
-
-</p>
-
-<h4 align="center">
-<details>
-<summary> </summary>
-
-
-<div align="center">
-  
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladsonsimoes&layout=compact&langs_count=10&theme=github_dark"/>
-</a> 
-
-<div align="center">
-
+<p align="center">
   <a href="https://github.com/gladsonsimoes"/>
-   <img align="height" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-    
- </div>
-
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&include_all_commits=true&count_private=false&theme=tokyonight"
+    />
+  </a>
+    <img
+      align="center"
+      height="150em"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=glasonsimoes&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=tokyonight"
+    />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
 
