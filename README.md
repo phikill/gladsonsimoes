@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá meu nome é Gladson </h1></img>
 
 
-<div align="left">
+<div align="center">
 
   <a href="https://github.com/gladsonsimoes"/>
    <img align="height" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
