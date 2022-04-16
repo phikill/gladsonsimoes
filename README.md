@@ -1,15 +1,11 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá eu meu chamo Gladson </h1></img>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
 
 <div align="left">
 
   <a href="https://github.com/gladsonsimoes"/>
    <img align="height" src="https://github-readme-stats.vercel.app/api?username=gladsonsimoes&show_icons=true&theme=github_dark&include_all_commits=true&count_private=false"/>
-     
-<!-- <a href="https://github.com/gladsonsimoes"/> 
-<img  align="center" height="200em"  src="Gladson.gif"/> -->
-
+    
  </div>
  
 <div style="display: inline_block"><br>
@@ -23,6 +19,9 @@
 <h4 align="center">
 <details>
 <summary> </summary>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="270px" max-width="270px" width="270px" align="right" alt="Computador iuriCode">
+
 
 <div align="center">
   
