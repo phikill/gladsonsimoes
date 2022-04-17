@@ -1,12 +1,5 @@
 <h1 align="height"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá meu nome é Gladson <img align="right" alt="JAVA" height="31" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">  </h1></img>
 
-</p>
-
-<h4 align="center">
-<details>
-<summary> Detalhes </summary>
-  
-<p>
 <p align="center">
   <a href="https://github.com/gladsonsimoes"/>
     <img
@@ -23,6 +16,12 @@
     />
   </a>
 
+</p>
+
+<h4 align="center">
+<details>
+<summary> Detalhes </summary>
+  
   <p align="left"> 
   Recetemente estou cursando programação
   </p>
